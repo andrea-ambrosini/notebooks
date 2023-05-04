@@ -1,5 +1,5 @@
 
-# Notebooks files
+# Jupyter Notebook files
 
 
 ### Project sponsor 
